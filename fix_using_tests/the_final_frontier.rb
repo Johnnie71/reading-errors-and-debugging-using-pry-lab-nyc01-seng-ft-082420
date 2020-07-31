@@ -6,7 +6,7 @@ end
 
 
 def state_log(date)
-   "Captain's Log, star date #{date}."
+   "Captain's Log, star date #{star_date}."
 end
 
 
